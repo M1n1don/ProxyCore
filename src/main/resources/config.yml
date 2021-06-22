@@ -1,0 +1,34 @@
+#########################################################
+# ProxyCore Configuration File
+# Plugin version 1.0 (Minidon)
+# - Web Site: https://m1n1don.dev/
+# - Discord: https://discord.gg/B4SYTyW
+##
+
+# fallback:
+#   フォールバックサーバーの名前。
+fallback: "lobby"
+
+# connect_message:
+#   プロキシサーバーに接続した際のメッセージ。
+#   無効にしたい場合は "" のみにしてください。
+#
+#   PlaceHolder:
+#     %PLAYER% - プレイヤー名
+connect_message: "§6%PLAYER% joined the proxy server."
+
+# disconnect_message:
+#   プロキシサーバーから切断した際のメッセージ。
+#   無効にしたい場合は "" のみにしてください。
+#
+#   PlaceHolder:
+#     %PLAYER% - プレイヤー名
+disconnect_message: "§6%PLAYER% left the proxy server."
+
+# kick_reason:
+#   サーバーからKickされた際のベースメッセージのメッセージ。
+#   無効にしたい場合は "" のみにしてください。
+#
+#   PlaceHolder:
+#     %MESSAGE% - メッセージ (理由)
+kick_reason: "§c%MESSAGE%"

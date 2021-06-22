@@ -1,0 +1,4 @@
+name: ProxyCore
+version: ${project.version}
+main: dev.m1n1don.proxycore.ProxyCore
+author: Minidon
