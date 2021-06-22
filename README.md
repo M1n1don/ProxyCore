@@ -1,0 +1,2 @@
+# ProxyCore
+BungeeCordサーバーに欲しい機能を詰め込んだプラグイン
